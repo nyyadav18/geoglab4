@@ -2,10 +2,13 @@
 ##### Visualized using US Census Tract Data
 ##### [Washington Geospatial Open Data Portal](https://geo.wa.gov/datasets/WADOH::toxic-releases-from-facilities-rsei-model-current-version/about) 
 
-Map URL
-https://[your_github_username].github.io/[your_repository_name]
+[Access the Map Here!](https://nyadav18.github.io/geoglab4)
 
-Screenshots of Four Layers
+Layer Images:
+![Base](/Users/nikitayadav/GEOG458/base.png)
+![Thematic](/Users/nikitayadav/GEOG458/thematic.png)
+![Thematic and Base](/Users/nikitayadav/GEOG458/thematicandbase.png)
+![Final Theme](/Users/nikitayadav/GEOG458/finaltheme.png)
 
 Examined Geographic Area
 
