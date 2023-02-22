@@ -5,10 +5,10 @@
 [Access the Map Here!](https://nyadav18.github.io/geoglab4)
 
 Layer Images:
-![Base](geoglab4/imgs/base.png)
-![Thematic](geoglab4/imgs/thematic.png)
-![Thematic and Base](geoglab4/imgs/thematicandbase.png)
-![Final Theme](geoglab4/imgs/finaltheme.png)
+![Base](/imgs/base.png)
+![Thematic](/imgs/thematic.png)
+![Thematic and Base](/imgs/thematicandbase.png)
+![Final Theme](imgs/finaltheme.png)
 
 Examined Geographic Area
 
