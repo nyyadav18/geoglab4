@@ -2,7 +2,7 @@
 ##### Visualized using US Census Tract Data
 ##### Data Source: [Washington Geospatial Open Data Portal](https://geo.wa.gov/datasets/WADOH::toxic-releases-from-facilities-rsei-model-current-version/about) 
 
-[Access the Map Here!](https://nyadav18.github.io/geoglab4)
+[Access the Map Here!](https://nyyadav18.github.io/geoglab4)
 
 Layer Images:
 ![Base](/imgs/base.png)
